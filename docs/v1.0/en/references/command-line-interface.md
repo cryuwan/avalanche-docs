@@ -314,3 +314,7 @@ The default value is `false`.
 `--xput-server-port` [Deprecated] (string):
 
 This option lets one specify on which port the throughput server, if enabled, will listen. The default value is `9652`.
+
+`--whitelisted-subnets` (string):
+
+Comma separeted list of subnets that this node will be willing to validate.
